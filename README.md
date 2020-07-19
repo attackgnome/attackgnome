@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I have a background in geophysics and petroleum engineering and am diving into learning what I can about data science and machine learning. 
+
+I'm interested in collaberating on open source projects in python and R. 
+
+Feel free to ask me about my experience in the petroleum industry and how I see open source tools being used in that sphere.
+
+
+
+
 <!--
 **attackgnome/attackgnome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
