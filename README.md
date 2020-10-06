@@ -4,7 +4,7 @@ I have a background in geophysics and engineering and am diving into learning wh
 
 I'm interested in collaberating on open source projects in python and R.
 
-Feel free to ask me about my experience in the petroleum industry and how I see open source tools being used in that sphere.
+Feel free to ask me about my experience in the energy industry and how I see open source tools being used in that sphere.
 
 
 
