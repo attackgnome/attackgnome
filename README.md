@@ -4,7 +4,7 @@ Hi, I am a Data Scientist with deep expertise in the Oil & Gas and Consulting In
 Data Science | Machine Learning | Consulting | Energy
 -----------------------------------------------------
 
-I have over 7 years experience in Data Science and Machine Learning from my experience working in consulting and the energy industry at RevGen and Halliburton. My recent accomplishments include building an anomaly detection system for a Fortune 500 client in the Telecom industry, which increased revenue recovery in 9 months by $2 million.
+I have over 7 years experience in Data Science and Machine Learning from my experience working in consulting and the energy industry. My recent accomplishments include building an anomaly detection system for a Fortune 500 client in the Telecom industry, which increased revenue recovery in 9 months by $2 million.
 
 * 🌍  I'm based in Denver
 * ✉️  You can contact me at [joseph.romani@gmail.com](mailto:joseph.romani@gmail.com)
